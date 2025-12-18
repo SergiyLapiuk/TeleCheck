@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+*.session
+
+.vscode/
+
+.DS_Store
+Thumbs.db
+
+saved_classic_models/
+saved_model6/

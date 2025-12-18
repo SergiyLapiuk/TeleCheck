@@ -1,0 +1,26 @@
+/* Можеш поки використати однакове оформлення як і в HomePage */
+
+.app-root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.top-bar {
+  width: 100vw;
+  background-color: #3366cc;
+  color: white;
+  padding: 16px 32px;
+  font-size: 24px;
+  font-weight: bold;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+}
+
+.content {
+  width: 100%;
+  max-width: 1000px;
+  margin: 30px auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
