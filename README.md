@@ -1,8 +1,3 @@
-<img width="427" height="474" alt="image" src="https://github.com/user-attachments/assets/6c02f096-a469-4644-84ec-a686a7830387" />
-<img width="423" height="278" alt="image" src="https://github.com/user-attachments/assets/34715bf7-dd7f-4054-8a63-2f451270d47a" />
-<img width="414" height="169" alt="image" src="https://github.com/user-attachments/assets/2df06d55-aa18-4780-b79d-2b9a23a598e4" />
-<img width="421" height="261" alt="image" src="https://github.com/user-attachments/assets/0ee66ccf-16fb-458f-a42c-6abe18b9e47c" />
-<img width="380" height="417" alt="image" src="https://github.com/user-attachments/assets/1c05e998-72a1-4816-91d6-0016f6eab8f4" />
 TeleCheck — це повноцінний програмний продукт (вебзастосунок), розроблений для автоматичного виявлення шкідливого контенту в Telegram-каналах. Система використовує ансамбль моделей машинного навчання для аналізу українськомовних текстів на предмет дезінформації, мови ворожнечі, контенту для дорослих та шахрайської реклами.
 
 
@@ -39,6 +34,18 @@ Transformers (HuggingFace): Робота з нейронною моделлю BE
 
 
 Scikit-learn & Joblib: Реалізація та збереження класичних моделей машинного навчання.
+
+<img width="427" height="474" alt="image" src="https://github.com/user-attachments/assets/6c02f096-a469-4644-84ec-a686a7830387" />
+
+<img width="423" height="278" alt="image" src="https://github.com/user-attachments/assets/34715bf7-dd7f-4054-8a63-2f451270d47a" />
+
+<img width="414" height="169" alt="image" src="https://github.com/user-attachments/assets/2df06d55-aa18-4780-b79d-2b9a23a598e4" />
+
+
+<img width="421" height="261" alt="image" src="https://github.com/user-attachments/assets/0ee66ccf-16fb-458f-a42c-6abe18b9e47c" />
+
+<img width="380" height="417" alt="image" src="https://github.com/user-attachments/assets/1c05e998-72a1-4816-91d6-0016f6eab8f4" />
+
 
 
 
